@@ -49,7 +49,7 @@ Key Findings:
 - **Leading Employer:** The majority of the top-paying roles are offered by one company: Allegro.
 - **Job Sectors:** Most of the high-paying positions are concentrated in the Financial Services and Pricing sectors.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
